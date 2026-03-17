@@ -25,6 +25,6 @@ if(nombre = "" || idea == ""){
 
 document.getElementById("mensaje").innerText = "Completa todos los campos"
 
-}
+}a
 
 })
